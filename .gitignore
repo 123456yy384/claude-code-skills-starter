@@ -1,0 +1,15 @@
+# Claude Code Skills - user data
+user_data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
